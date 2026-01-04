@@ -18,6 +18,6 @@ The framework allows systematic comparison between:
 - Multy class Cross-Entropy
 - Ordinal Loss (OL)
 - Ordinal Cross Entropy (OCE)
-- Regularized CE variants (Poisson, Binomial, Exponential)
+- Regularized CE variants (Beta, Poisson, Binomial, Exponential)
 
 
